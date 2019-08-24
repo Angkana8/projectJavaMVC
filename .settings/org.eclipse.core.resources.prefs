@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/Alumni/contacts.jsp=UTF-8
+encoding//WebContent/Alumni/searchByName.jsp=UTF-8
+encoding//WebContent/admin/SearchUser1.jsp=UTF-8
+encoding//src/com/mfu/web/controller/AlumniVIPController.java=UTF-8
+encoding//src/com/mfu/web/controller/AssociationController.java=UTF-8
+encoding//src/com/mfu/web/controller/CSVController.java=UTF-8
+encoding//src/com/mfu/web/controller/SearchController.java=UTF-8
+encoding//src/com/mfu/web/controller/StudentController.java=UTF-8
+encoding//src/com/mfu/web/controller/userController.java=UTF-8
